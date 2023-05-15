@@ -13,8 +13,8 @@ function onFormSubmit(event) {
   }
 
   const formData = {
-    Email: email,
-    Password: password,
+    email: email,
+    password: password,
   };
 
   console.log(formData);
